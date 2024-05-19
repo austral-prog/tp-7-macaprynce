@@ -1,3 +1,5 @@
+enumerate_list ():
+
 def index_of_by_index(word, list, index):
     return -1
 
